@@ -1,5 +1,5 @@
-# A Simple Terminal Notebook
-> Make it Simple.
+# Terminal Notebook
+> A simple terminal notebook app built by Node.js 
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
